@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iqfpt9D2vn0MGVal8BrsvTBWWD5jAmw+ZCfbtA/iHMd24ajHqFu/VHZi9K9CysewktwWFl1xTFmxQMKvbSKDlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\元一\\Desktop\\code\\Algorithm\\Cul-Texo\\AlogrithmStudy\\AlogrithmStudy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\元一\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
